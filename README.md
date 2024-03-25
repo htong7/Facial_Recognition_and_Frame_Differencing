@@ -12,6 +12,7 @@ You can install the necessary libraries using pip:
 
 ```bash
 pip install face_recognition opencv-python
+```
 
 Usage
 The main function in the script is detect_faces_in_video(video_path), where video_path is the path to the video file you want to process.
@@ -22,7 +23,9 @@ The function also calculates and prints the processing time.
 
 Here’s an example of how to use it:
 
+```bash
 results = detect_faces_in_video("path_to_your_video.mp4")
+```
 
 Output
 The function returns a list of integers representing the detection results for each second of the video. It also prints the detection results and the processing time.
