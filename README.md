@@ -92,15 +92,3 @@ This function plots the moving average of a series.
 ## Visualization
 
 The project includes visualization of the movement analysis results using matplotlib. The results are displayed as plots showing the movement per second and the moving average of the movement.
-
-## Contributing
-
-Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
----
-
-Feel free to customize this README file as per your project's specific requirements!
